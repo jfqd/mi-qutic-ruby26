@@ -41,7 +41,7 @@ echo "* Setup ruby env"
 
 echo "gem: --no-document " >> /opt/local/etc/gemrc
 gem update --system
-gem install bundler
+# gem install bundler
 gem install gemenv
 gem install pkg-config
 
