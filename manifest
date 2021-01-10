@@ -1,0 +1,8 @@
+name="qutic-ruby26"
+organization="qutic development"
+brand="Ruby 2.6 Instance"
+version="20181018.1"
+description="qutic ruby 2.6 image"
+homepage="https://github.com/jfqd/mi-qutic-ruby26"
+users="root admin ruby"
+base="21717cbc-56dd-11ea-b7a9-6732922efdd6"
